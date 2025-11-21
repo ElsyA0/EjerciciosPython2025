@@ -1,11 +1,5 @@
 # EjerciciosPython2025
 En este entregable se desarrollar un conjunto de ejercicios básicos en Python con el objetivo de reforzar conceptos clave de programación.
-Instrucciones Generales
-•	Puedes entregar tus programas en un solo archivo .py o en archivos separados (uno por ejercicio).
-•	Asegúrate de probar tu código antes de entregarlo.
-•	Incluye comentarios breves que expliquen qué hace cada parte importante del programa.
-•	No es necesario implementar interfaces gráficas; todo será por consola.
-•	Usa nombres de variables claros.
 Ejercicios a Desarrollar
 1. Número par o impar
 Crea un programa que:
